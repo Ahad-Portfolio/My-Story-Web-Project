@@ -1,28 +1,24 @@
+
 # My Story – Inspiring Stories Website
 
 ## Project Overview
-My Story is a university web development project designed to let users share inspiring stories anonymously and read stories submitted by others.
+A university web development project that allows users to anonymously share inspiring stories and explore stories shared by others.
 
 ## Features
-- Home page introducing the website.
-- Story submission form for sharing stories anonymously.
-- Section for viewing previously submitted stories.
-- About Us section explaining the website's purpose.
-- PHP and MySQL integration for storing and retrieving stories.
+- **Home Page:** Introduces the website and its purpose.
+- **Share Stories:** Submit stories anonymously.
+- **Read Stories:** Browse previously shared stories.
+- **About Us:** Learn more about the website.
 
 ## Technologies Used
-- HTML – Page structure.
-- CSS – Website styling.
-- JavaScript – Front-end interactions and navigation.
-- PHP – Server-side processing.
-- MySQL – Database storage.
+- **HTML & CSS:** Page structure and styling.
+- **JavaScript:** Front-end interactions.
+- **PHP:** Server-side processing.
+- **MySQL:** Database storage and management.
 
 ## Project Files
-- `index.php` – Main website page.
+- `index.php` – Main website interface.
 - `style.css` – Website styling.
-- `main.js` – JavaScript functionality.
+- `main.js` – Interactive functionality.
 - `db.php` – Database connection.
-- `submit_story.php` – Story submission processing.
-
-## Academic Project
-Developed as part of a university web development course to demonstrate front-end development, PHP programming, and database integration.
+- `submit_story.php` – Story submission handling.
